@@ -1,0 +1,396 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposal for the sinking of several deficiences by raising three millions of money, at the rate of 10l. per cent. per annum, for one life, or lease of thirty years, which of them shall first expire. Most humbly offered to the consideration of the House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56018</idno>
+            <idno type="STC">Wing P3703</idno>
+            <idno type="STC">ESTC R221997</idno>
+            <idno type="EEBO-CITATION">99833237</idno>
+            <idno type="PROQUEST">99833237</idno>
+            <idno type="VID">37712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56018)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2195:01)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposal for the sinking of several deficiences by raising three millions of money, at the rate of 10l. per cent. per annum, for one life, or lease of thirty years, which of them shall first expire. Most humbly offered to the consideration of the House of Commons.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Copy has annotation: The principal money of the debt of K Charles the second anno 1667 (commonly called his Goldsmith's debt) may be taken for tickets/.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Finance, Public --  Great Britain --  Early works to 1800.</term>
+               <term>Lotteries --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposal">
+            <pb facs="tcp:37712:1" rendition="simple:additions"/>
+            <head>A PROPOSAL FOR THE Sinking of ſeveral <hi>DEFICIENCES;</hi> BY RAISING <hi>Three Millions</hi> of Money, at the Rate of 10 <hi>
+                  <abbr>l</abbr> per Cent. per Annum,</hi> for <hi>One Life,</hi> or Leaſe of <hi>Thirty Years,</hi> which of them ſhall firſt Expire.</head>
+            <opener>Most Humbly Offered to the Conſideration of the <hi>Honourable</hi> the <hi>HOUSE</hi> of <hi>COMMONS.</hi>
+            </opener>
+            <p>THAT there be given out, by his Majeſty's Commiſſioners, to any Perſons, Natives or Foreigners, <hi>Fifteen hundred Thouſand</hi> Tickets, at Forty Shillings a Ticket, which will raiſe <hi>Three Millions:</hi> And it is humbly hoped, the <hi>Ad<g ref="char:EOLhyphen"/>venturers</hi> may ſatisfie the Purchaſe Money with <hi>Malt Tickets, Salt Tallies, Births and Burials, Tranſport Debt,</hi> &amp;c.</p>
+            <p>THAT a <hi>Fund</hi> of <hi>Three hundred Thouſand</hi> Pounds <hi>per Annum,</hi> for Thirty Years, be veſted in his Majeſty, <hi>&amp;c.</hi> to Pay the following Be<g ref="char:EOLhyphen"/>nefits, <hi>viz.</hi>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>1 —of</cell>
+                     <cell>1000 pounds a year</cell>
+                     <cell>1000</cell>
+                  </row>
+                  <row>
+                     <cell>1 —of</cell>
+                     <cell>900 pounds a year</cell>
+                     <cell>900</cell>
+                  </row>
+                  <row>
+                     <cell>1 —of</cell>
+                     <cell>800 pounds a year</cell>
+                     <cell>800</cell>
+                  </row>
+                  <row>
+                     <cell>1 —of</cell>
+                     <cell>700 pounds a year</cell>
+                     <cell>700</cell>
+                  </row>
+                  <row>
+                     <cell>2 each of</cell>
+                     <cell>600 pounds a year</cell>
+                     <cell>1200</cell>
+                  </row>
+                  <row>
+                     <cell>4 each of</cell>
+                     <cell>500 pounds a year</cell>
+                     <cell>2000</cell>
+                  </row>
+                  <row>
+                     <cell>5 each of</cell>
+                     <cell>400 pounds a year</cell>
+                     <cell>2000</cell>
+                  </row>
+                  <row>
+                     <cell>6 each of</cell>
+                     <cell>300 pounds a year</cell>
+                     <cell>1800</cell>
+                  </row>
+                  <row>
+                     <cell>10 each of</cell>
+                     <cell>200 pounds a year</cell>
+                     <cell>2000</cell>
+                  </row>
+                  <row>
+                     <cell>50 each of</cell>
+                     <cell>100 pounds a year</cell>
+                     <cell>5000</cell>
+                  </row>
+                  <row>
+                     <cell>100 each of</cell>
+                     <cell>70 pounds a year</cell>
+                     <cell>7000</cell>
+                  </row>
+                  <row>
+                     <cell>200 each of</cell>
+                     <cell>60 pounds a year</cell>
+                     <cell>12000</cell>
+                  </row>
+                  <row>
+                     <cell>300 each of</cell>
+                     <cell>50 pounds a year</cell>
+                     <cell>15000</cell>
+                  </row>
+                  <row>
+                     <cell>400 each of</cell>
+                     <cell>40 pounds a year</cell>
+                     <cell>16000</cell>
+                  </row>
+                  <row>
+                     <cell>500 each of</cell>
+                     <cell>35 pounds a year</cell>
+                     <cell>17500</cell>
+                  </row>
+                  <row>
+                     <cell>600 each of</cell>
+                     <cell>30 pounds a year</cell>
+                     <cell>18000</cell>
+                  </row>
+                  <row>
+                     <cell>700 each of</cell>
+                     <cell>25 pounds a year</cell>
+                     <cell>17500</cell>
+                  </row>
+                  <row>
+                     <cell>800 each of</cell>
+                     <cell>20 pounds a year</cell>
+                     <cell>16000</cell>
+                  </row>
+                  <row>
+                     <cell>900 each of</cell>
+                     <cell>15 pounds a year</cell>
+                     <cell>13500</cell>
+                  </row>
+                  <row>
+                     <cell>1000 each of</cell>
+                     <cell>10 pounds a year</cell>
+                     <cell>10000</cell>
+                  </row>
+                  <row>
+                     <cell>28000 each of</cell>
+                     <cell>5 pounds a year</cell>
+                     <cell>140000</cell>
+                  </row>
+                  <row>
+                     <cell role="total">33581</cell>
+                     <cell> </cell>
+                     <cell> </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>To the firſt Ticket drawn beſides the Benefit may come up with it, the yearly Sum of—</cell>
+                     <cell>100</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">300000 <abbr>
+                           <hi>l</hi>
+                        </abbr> a year.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="2" facs="tcp:37712:2"/>
+            <p>THE ſaid <hi>Benefits</hi> to be held by Life, or Leaſe of Thirty Years, which of them ſhall firſt Expire.</p>
+            <p>A <hi>Benefit</hi> Ticket of or under 70 <hi>
+                  <abbr>l</abbr> per Annum,</hi> to have but one Life nominated for it.</p>
+            <p>A <hi>Benefit Ticket</hi> of or above 100 <hi>
+                  <abbr>l</abbr> per Annum</hi> (at the Requeſt of the Owner) may be divided into as many parts as there are of 50 <abbr>
+                  <hi>l</hi>
+               </abbr> included in it, and every 50 <hi>
+                  <abbr>l</abbr> per Annum</hi> may have a Life nominated for it.</p>
+            <p>As many <hi>Benefit Tickets</hi> as the Proprietors thereof will, may be held by one and the ſame Life: The Lives to be named within 60 days after the Drawing.</p>
+            <p>ALL <hi>Tallies</hi> (given out at the <hi>Exchequer</hi> in Lieu of <hi>Benefitted Ticket</hi> or <hi>Tickets</hi>) importing the value of 15 <hi>
+                  <abbr>l</abbr> per Annum,</hi> to be paid by half Yearly: The reſt (if any ſuch be; for it is concluded there will be Buy<g ref="char:EOLhyphen"/>ing or Selling of ſmall Prizes, ſo that ſcarce any body will be concerned leſs, one way or other, than for 15 <hi>
+                  <abbr>l</abbr> per Annum</hi>) by Yearly Payments: The firſt Payment to be reckon'd from <hi>Lady-Day,</hi> 1701.</p>
+            <p>THE time given for taken out Tickets may be until the 10th Day of <hi>February,</hi> 1700. and at the following Rates, <hi>viz.</hi>
+            </p>
+            <p>FOR every Ticket taken out before the <hi>1st</hi> of <hi>November,</hi> Forty Shillings.</p>
+            <p>FOR every Ticket after the <hi>1st</hi> of <hi>November,</hi> and before the <hi>1st</hi> of <hi>January,</hi> Forty Two Shillings.</p>
+            <p>FOR every Ticket after the <hi>1st</hi> of <hi>January,</hi> Forty Four Shillings.</p>
+            <p>AND as a farther Encouragement to be early Adventurers, if <hi>Three Millions</hi> be raiſed by the 10th of <hi>February,</hi> then there may be a Rebate of Two Shillings on every Ticket taken out before the 10th of <hi>July,</hi> 1700. to be allowed at the <hi>Exchequer</hi> to the Bearer of ſuch Tickets after the Drawing ſhall be ended.</p>
+            <p>IF the <hi>Million Lottery</hi> way of Drawing ſhall be thought inconvenient by reaſon of the great Number of Tickets, then the following Method may be uſed.</p>
+            <p>LET the Tickets be made up in Books, each Book to contain 500 Tickets, and the Books numbred from 1 to 3000.</p>
+            <p>LET 3000 pieces of Paper numbred from 1 to 3000, ſtand for the ſaid Books, be rolled up, put into a Box mark'd with the Letter <hi>[A,]</hi> and there well mix'd, and 200 of them, nor more nor leſs, drawn out, one after another, and let the Tickets of the 200 Books anſwering and bearing the ſame Numbers of the 200 Papers that ſhall happen to be drawn as aforeſaid, and none other, be cut-out, rolled up, and put into a Box mark'd with the Letter <hi>[B,]</hi> and drawn againſt 33581 <hi>Benefits,</hi> and 66419 <hi>Blanks</hi>-from a Box mark'd with the Letter <hi>[C,]</hi> and let the chance of thoſe Tickets determine the matter.</p>
+            <p>A Book for taking Subſcriptions is now open at <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> and every one that will Subſcribe, firſt muſt pay Forty Shillings to the Bank of <hi>England,</hi> as a Pledge for performing of his or her Subſcription: The ſaid Sum of Forty Shillings to be returned in either of theſe caſes, <hi>viz.</hi> If the Sub<g ref="char:EOLhyphen"/>ſcriber ſhall perform his or her Subſcription, or if this Propoſal ſhall not paſs into an Act: But if it be Enacted, then the ſaid Forty Shillings of every Subſcriber, not complying with his or her Subſcription, ſhall be forfeited to His Majeſty: And it is humbly hoped, That the Liberty of taking out Tickets, may be only in the Subſcribers until the 10th Day of <hi>April,</hi> 1700.</p>
+            <div type="reasons_for_proposal">
+               <pb n="3" facs="tcp:37712:2"/>
+               <head>Some REASONS offered for the Granting of the ſaid <hi>Propoſal.</hi>
+               </head>
+               <p>IT will be Uſeful in General; for, I. as voluntary Contributions always have been eſteem'd the moſt Eaſie and Advantageous Way of raiſing of Money, by means whereof the People are more ſtrongly Cemented together, ſo the Funds which are given for them, being gene<g ref="char:EOLhyphen"/>rally for a Term of Years, the gentle Influences of them will be leſs felt in a long tract of Time, and by a new Generation of Men, than preſent Aids and Supplies by ſuch as have lived in the full heat of Taxes, decay of Trade, and other Notorious Loſſes.</p>
+               <p n="2">II. IT asks a Term of Years for a <hi>Fund</hi> far ſhort of what has been granted to Annuities of the like Nature; To wit, thoſe of One, Two, and Three Lives; and thoſe for Survivorſhip.</p>
+               <p n="3">III. IT will gratifie the Commonalty of <hi>England,</hi> who have not had any thing as yet ſet ſo low as to be in their reach, they could not med<g ref="char:EOLhyphen"/>dle with the Annuities, ſcarce with the <hi>Million Lottery,</hi> the one requi<g ref="char:EOLhyphen"/>ring an Hundred Pounds, and the other Ten Pounds a Ticket.</p>
+               <p n="4">IV. IT will be ſerviceable to ſuch as deſire a certainty during Life, or would make Proviſion for a Wife, or Child, or Friend.</p>
+               <p n="5">V. IT may be uſeful in Sinking of <hi>Exchequer Bills,</hi> and Paying off <hi>Parliamentary Debts</hi> at a Rate as eaſie to the Publick as can be imagined.</p>
+               <p n="6">VI. IT may ſave a great Sum of Money which has uſually been given for Rebate in the like Caſes, at leaſt it will ſave ſomething in pro<g ref="char:EOLhyphen"/>longing the time of Payment of it, for the Rebate herein propoſed is not to be made till after the Drawing.</p>
+               <p n="7">VII. IT cannot be leſs inviting to Adventurers than the <hi>Million Lottery</hi> was, and perhaps may fill as ſoon; however, by a Clauſe the Fund as well as the Prizes may be made to bear Proportion to the Sum which ſhall be advanced: That there is no Allowance for the Blanks, it ought not to be an Objection, for the Prizes are thereby much en<g ref="char:EOLhyphen"/>larged: Beſides, when Allowances have been made for them, as in the late Lotteries, they have been valued and ſold at more than Forty Shillings Loſs <hi>per</hi> Ticket, and this has not happen'd from the Altera<g ref="char:EOLhyphen"/>tion of the Coin, or any other Accident; for it may be remembred that before the Drawing of the <hi>Million Lottery,</hi> the uſual and common Rates given for the Chance of a Ticket were Three Guineas, and if it proved a Blank, the Contributor was to keep it, if a Prize, the Adven<g ref="char:EOLhyphen"/>turer was to have it paying 7 <abbr>
+                     <hi>l</hi>
+                  </abbr> more to the Contributor, which is a plain Demonſtration, that the Adventurers rather had had the Tickets ſet at Forty Shillings a Ticket, without any Proviſion for Blanks than at 10 <hi>
+                     <abbr>l</abbr> per</hi> Ticket, with the Proviſion made for them.</p>
+               <p>
+                  <hi>Laſtly,</hi> The Share or Shares of the <hi>Nominee</hi> or <hi>Nominees</hi> that ſhall happen to Die, may go to <hi>The Improvement of ſmall Parſonages, Green-wich-Hoſpital, Chelſea-Colledge,</hi> Rebuilding of <hi>Whitehall;</hi> Or towards the Endowment of <hi>Work-Houſes</hi> raiſed, or to be raiſed by Act of Parliament for the Maintenance of the <hi>POOR.</hi>
+               </p>
+            </div>
+            <div type="alternative_proposal">
+               <pb n="4" facs="tcp:37712:3" rendition="simple:additions"/>
+               <head>Another way of Raiſing <hi>Three Millions.</hi>
+               </head>
+               <p>LET <hi>Sixty Thouſand</hi> Tickets be given out, at Fifty Pounds a Ticket, and the Fund One hundred and eighty Thouſand Pounds <hi>per An<g ref="char:EOLhyphen"/>num</hi> for Fifty Years, payable in the following manner, <hi>viz.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>To the ſaid 60000 Tickets, whether Blanks or Prizes, each One Pound <hi>per Annum</hi> for 50 Years certain to the Contributors, their Exe<g ref="char:EOLhyphen"/>cutors, Adminiſtrators and Aſſigns.</cell>
+                        <cell>60000 <hi>
+                              <abbr>l</abbr> per Annum.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>To 12696 Tickets (part of the ſaid <hi>Sixty Thouſand</hi> Tickets) Benefitted for Life, or Fifty Years, which of them ſhall firſt Expire, <hi>One hundred and twenty thouſand Pounds</hi> per Annum: The Benefitted Shares of the Fortu<g ref="char:EOLhyphen"/>nate Adventures, whoſe Nominees ſhall hap<g ref="char:EOLhyphen"/>pen to Die, to be equally divided among the Survivors of them, unleſs there ſhall be but 40 Nominees living, after which time no fur<g ref="char:EOLhyphen"/>ther Advantage of Survivorſhip to be had; as it is in a late Act for Annuities with Survi<g ref="char:EOLhyphen"/>vorſhip.</cell>
+                        <cell>120000 <hi>
+                              <abbr>l</abbr> per Annum.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell> </cell>
+                        <cell role="total">Total 180000 <hi>
+                              <abbr>l</abbr> per Annum.</hi>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>The ſaid 12696 Fortunate Tickets to be, <hi>viz.</hi>
+               </p>
+               <p>
+                  <table>
+                     <row>
+                        <cell>1 —of</cell>
+                        <cell>1000 Pounds a Year</cell>
+                        <cell>1000</cell>
+                     </row>
+                     <row>
+                        <cell>2 each of</cell>
+                        <cell>900 Pounds a Year</cell>
+                        <cell>1800</cell>
+                     </row>
+                     <row>
+                        <cell>3 each of</cell>
+                        <cell>800 Pounds a Year</cell>
+                        <cell>2400</cell>
+                     </row>
+                     <row>
+                        <cell>4 each of</cell>
+                        <cell>700 Pounds a Year</cell>
+                        <cell>2800</cell>
+                     </row>
+                     <row>
+                        <cell>5 each of</cell>
+                        <cell>600 Pounds a Year</cell>
+                        <cell>3000</cell>
+                     </row>
+                     <row>
+                        <cell>6 each of</cell>
+                        <cell>500 Pounds a Year</cell>
+                        <cell>3000</cell>
+                     </row>
+                     <row>
+                        <cell>7 each of</cell>
+                        <cell>400 Pounds a Year</cell>
+                        <cell>2800</cell>
+                     </row>
+                     <row>
+                        <cell>8 each of</cell>
+                        <cell>300 Pounds a Year</cell>
+                        <cell>2400</cell>
+                     </row>
+                     <row>
+                        <cell>50 each of</cell>
+                        <cell>200 Pounds a Year</cell>
+                        <cell>10000</cell>
+                     </row>
+                     <row>
+                        <cell>150 each of</cell>
+                        <cell>100 Pounds a Year</cell>
+                        <cell>15000</cell>
+                     </row>
+                     <row>
+                        <cell>300 each of</cell>
+                        <cell>50 Pounds a Year</cell>
+                        <cell>15000</cell>
+                     </row>
+                     <row>
+                        <cell>12160 each of</cell>
+                        <cell>5 Pounds a Year</cell>
+                        <cell>60800</cell>
+                     </row>
+                     <row>
+                        <cell role="total">12696</cell>
+                        <cell> </cell>
+                        <cell role="total">120000</cell>
+                     </row>
+                  </table>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
